@@ -5,8 +5,8 @@ Research Co-Pilot
 <ol>
 	<li>Top n Research Papers</li>
 	<li>Summary of each</li>
-	<li></li>
-	<li></li>
+	<li>Topic Description</li>
+	<li>Ideas</li>
 	<li></li>
 	<li></li>
 	<li></li>
