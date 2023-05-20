@@ -7,7 +7,7 @@ Research Co-Pilot
 	<li>Summary of each</li>
 	<li>Topic Description</li>
 	<li>Ideas</li>
-	<li></li>
+	<li>Planning</li>
 	<li></li>
 	<li></li>
 	<li></li>
